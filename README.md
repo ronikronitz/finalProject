@@ -1,3 +1,3 @@
-# my first GIT project.
+# My first GIT project.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ronikronitz/finalProject/HEAD)
